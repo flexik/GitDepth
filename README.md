@@ -1,2 +1,3 @@
 # GitDepth
-tests Git
+some tests Git
+
