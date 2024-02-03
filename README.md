@@ -1,1 +1,2 @@
 # GitDepth
+tests Git
